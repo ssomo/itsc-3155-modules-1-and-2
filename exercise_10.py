@@ -2,7 +2,7 @@
 
 #Takes in a string from the user
 string = str(input('Enter a string: '))
-#Breaks the string into a list of characyers
+#Breaks the string into a list of characters
 str_list = list(string)
 split_list = [] #Empty array
 #Loop from 0 to the length of str_list
